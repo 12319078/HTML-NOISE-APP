@@ -1,0 +1,77 @@
+table{
+    width: 100%;
+    border:3px solid;
+    /* border-color:green; (for all border with same color)*/
+    /border-block-color:pink lightblue;/
+    background-color:white;
+    border-top-color: rgb(14, 15, 14);
+    border-bottom-color: rgb(7, 7, 7);
+    border-left-color: rgb(10, 10, 10);
+    border-right-color: black;
+    border-spacing: 0.1;
+    border-collapse: separate;
+    color: black;
+}
+th,td{
+    border:1px solid green;
+    padding: 2px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family:  sans-serif;
+}
+.sum{
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(247, 5, 5);
+}
+.sum1{
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(254, 5, 5);
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.source {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+.sum2{
+    color:black;
+}
+.sum3{
+    color: rgb(106, 130, 12);
+}
+.sum4{
+    color:green;
+}
+.css1{
+    color:rgb(251, 181, 5);
+}
+h3{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+}
